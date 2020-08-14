@@ -14,8 +14,8 @@ logging.basicConfig(
 LOGGER = logging.getLogger(__name__)
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
-# TOKEN = os.getenv("TOKEN")
-TOKEN = os.getenv("TOKEN")
+# TOKEN = os.getenv("1141674372:AAFyGIGOME3ng7U9sl_NN99YscMOC_jG6ok")
+TOKEN = os.getenv("1141674372:AAFyGIGOME3ng7U9sl_NN99YscMOC_jG6ok")
 
 user_id = []
 
