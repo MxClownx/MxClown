@@ -1,0 +1,6 @@
+requests
+python-telegram-bot
+pyrogram
+tgcrypto
+beautifulsoup4
+wget
